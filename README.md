@@ -715,7 +715,7 @@ This distinction is important: the repository demonstrates the **backend and int
 The repository includes:
 
 ```text
-Capstone_Documentation.pdf
+JouleOps_NorthWind_Documentation.pdf
 ```
 
 The documentation covers:
