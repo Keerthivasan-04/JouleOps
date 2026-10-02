@@ -734,33 +734,6 @@ The documentation covers:
 
 ---
 
-## 👨‍💻 Author
-
-**Keerthivasan A**
-
-B.E. Electronics and Communication Engineering  
-K. Ramakrishnan College of Technology
-
----
-
-## ⭐ Project Name
-
-### Recommended GitHub Repository Name
-
-```text
-jouleops-northwind
-```
-
-### Recommended Project Title
-
-**JouleOps @ NorthWind Manufacturing**
-
-### Recommended Subtitle
-
-**Agentic AI Enterprise Assistant using SAP BTP, SAP HANA Cloud, FastAPI & MCP**
-
----
-
 ## 📄 License
 
-This project was developed as an academic/capstone project for learning and demonstration purposes.
+This project was developed for learning and demonstration purposes.
