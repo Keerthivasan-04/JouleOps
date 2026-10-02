@@ -1,0 +1,8 @@
+applications:
+  - name: jouleops-mcp
+    memory: 512M
+    instances: 1
+    buildpacks:
+      - python_buildpack
+    command: python server.py
+    random-route: true
